@@ -1,6 +1,8 @@
-# vue-test
+# vue-store-demo
 
-> A Vue.js project
+> A demo Vue.js project that shows how to treat vuex driven store
+
+[living demo](https://vuex-store-demo.jsninjas.net)
 
 ## Build Setup
 
