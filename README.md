@@ -2,7 +2,7 @@
 
 > A demo Vue.js project that shows how to treat vuex driven store
 
-[living demo](https://vuex-store-demo.jsninjas.net)
+[living demo](https://vuex-store-demo.jsninjas.net/#/product-list)
 
 ## Build Setup
 
