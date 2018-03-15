@@ -1,4 +1,4 @@
-# vue-store-demo
+# vuex-store-demo
 
 > A demo Vue.js project that shows how to treat vuex driven store
 
